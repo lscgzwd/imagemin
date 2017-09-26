@@ -50,7 +50,7 @@
 	"devDependencies": {
 		"ava": "*",
 		"del": "^2.2.0",
-		"imagemin-jpegtran": "^5.0.0",
+		"china-imagemin-jpegtran": "=5.0.3",
 		"imagemin-webp": "^4.0.0",
 		"is-jpg": "^1.0.0",
 		"tempy": "^0.1.0",
