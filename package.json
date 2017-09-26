@@ -1,23 +1,22 @@
 {
-	"name": "imagemin",
+	"name": "china-imagemin",
 	"version": "5.3.1",
-	"description": "Minify images",
+	"description": "Minify images, 同步官方代码，解决国内下载jpegtran-bin,optipng-bin依赖的源码慢的问题",
 	"license": "MIT",
-	"repository": "imagemin/imagemin",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/lscgzwd/imagemin.git"
+	},
 	"author": {
-		"name": "Kevin Mårtensson",
-		"email": "kevinmartensson@gmail.com",
-		"url": "github.com/kevva"
+		"name": "lscgzwd",
+		"email": "lscgzwd@gmail.com",
+		"url": "github.com/lscgzwd"
 	},
 	"maintainers": [
 		{
-			"name": "Sindre Sorhus",
-			"email": "sindresorhus@gmail.com",
-			"url": "sindresorhus.com"
-		},
-		{
-			"name": "Shinnosuke Watanabe",
-			"url": "github.com/shinnn"
+			"name": "lscgzwd",
+			"email": "lscgzwd@gmail.com",
+			"url": "github.com/lscgzwd"
 		}
 	],
 	"engines": {
