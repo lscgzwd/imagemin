@@ -1,6 +1,6 @@
 {
 	"name": "china-imagemin",
-	"version": "5.3.1",
+	"version": "5.3.2",
 	"description": "Minify images, 同步官方代码，解决国内下载jpegtran-bin,optipng-bin依赖的源码慢的问题",
 	"license": "MIT",
 	"repository": {
